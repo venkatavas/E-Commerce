@@ -12,9 +12,7 @@ A modern ecommerce application built with Flutter, featuring a clean UI and esse
 - 🔄 State management with Provider
 - 🌐 RESTful API integration
 
-## Screenshots
 
-[Add screenshots of your app here]
 
 ## Getting Started
 
@@ -63,7 +61,6 @@ lib/
 - provider: ^6.0.5
 - http: ^1.1.0
 - shared_preferences: ^2.2.0
-- [Add other dependencies]
 
 ## Contributing
 
@@ -73,17 +70,14 @@ lib/
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - Flutter team for the amazing framework
-- [Add any other acknowledgments]
 
 ## Contact
 
-Venkata Vas - [@venkatavas](https://github.com/venkatavas) - [Add your email]
+Venkata Vas - [@venkatavas](https://github.com/venkatavas) - [venkatavas467@gmail]
 
 Project Link: [https://github.com/venkatavas/E-Commerce](https://github.com/venkatavas/E-Commerce)
